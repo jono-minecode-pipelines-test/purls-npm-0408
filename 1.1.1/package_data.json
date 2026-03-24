@@ -1,0 +1,61 @@
+{
+    "name": "007putra-my-bot",
+    "version": "1.1.1",
+    "description": "membuat bot pemula",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Novanto10/my-bot.git"
+    },
+    "keywords": [
+        "bot"
+    ],
+    "author": {
+        "name": "novanz"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Novanto10/my-bot/issues"
+    },
+    "homepage": "https://github.com/Novanto10/my-bot#readme",
+    "dependencies": {
+        "nama-orang-orang": "^1.1.0"
+    },
+    "devDependencies": {},
+    "_id": "007putra-my-bot@1.1.1",
+    "gitHead": "54909587354582c05f7cb0d6b2a51d5838b7067e",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-gsVnjiqftuTAp915mgy9+jQesf8W7hBzi47FX4Cf7sYylJNkvfIRjjfiaDdfImAq13NjPyWVN5J03K5F+2cWgw==",
+        "shasum": "0e2b78c5d8f5a2e8d5e53d54b59e8637a9f702ed",
+        "tarball": "https://registry.npmjs.org/007putra-my-bot/-/007putra-my-bot-1.1.1.tgz",
+        "fileCount": 2,
+        "unpackedSize": 622,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIAkPDlxCU1n7MO/xxnUJYnTKE0wNDpE2fx1+ckz8/raaAiEAgyJqUjN9RZPa1FZhMfRS+/BJJEj4IOG2qnuzgr2rkUY="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "007putra",
+        "email": "007putraardiansyah@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "007putra",
+            "email": "007putraardiansyah@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/007putra-my-bot_1.1.1_1710137107745_0.8040270155817253"
+    },
+    "_hasShrinkwrap": false
+}

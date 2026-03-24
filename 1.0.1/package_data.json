@@ -1,0 +1,53 @@
+{
+    "name": "-number-guessing-game-by-muhammadowais-updated-",
+    "version": "1.0.1",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "-number-guessing-game-by-muhammadowais-updated-": "NumberGuessing.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.16"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "-number-guessing-game-by-muhammadowais-updated-@1.0.1",
+    "_nodeVersion": "21.6.2",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-JIelWbzBsh+8D1NyRqmOehjGdV+Mz7+c01NznpvONPoKifVz2PBccr/hBKR94j/9fhMInioI1e5S08inV0TIRA==",
+        "shasum": "0061ae228f5e3444c3f4908bd27c3b38e0180cfd",
+        "tarball": "https://registry.npmjs.org/-number-guessing-game-by-muhammadowais-updated-/-/-number-guessing-game-by-muhammadowais-updated--1.0.1.tgz",
+        "fileCount": 5,
+        "unpackedSize": 15114,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDP6F+FxIEfehlSmlDh109bx83B6FzrkIkTJQFX0H+IHwIhANHj7s0x1jzzmtISe27Wfo5RM4Ze3J/FR+YOZycLUSim"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "awais123ashfaq",
+        "email": "awais123ashfaq@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "awais123ashfaq",
+            "email": "awais123ashfaq@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-number-guessing-game-by-muhammadowais-updated-_1.0.1_1711505043537_0.3404267135447623"
+    },
+    "_hasShrinkwrap": false
+}
