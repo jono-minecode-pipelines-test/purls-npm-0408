@@ -1,6 +1,6 @@
 {
     "name": "00h-simple-calculator",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "A simple calculator with typescript, node.js and inquirer",
     "main": "index.js",
     "type": "module",
@@ -20,19 +20,19 @@
     "devDependencies": {
         "@types/inquirer": "^9.0.7"
     },
-    "_id": "00h-simple-calculator@1.0.1",
+    "_id": "00h-simple-calculator@1.0.3",
     "_nodeVersion": "20.11.1",
     "_npmVersion": "10.2.4",
     "dist": {
-        "integrity": "sha512-OUOep6GXqbRe9q4xCP0QFD7tf7dKwuHb8zI75csv4ifF9PObGgTd+ss7j5/LTkanJMPvSgP5Usi0ADWxldbj+w==",
-        "shasum": "872e39a075fd50a5d8b8cc86f6908ae532cb2590",
-        "tarball": "https://registry.npmjs.org/00h-simple-calculator/-/00h-simple-calculator-1.0.1.tgz",
+        "integrity": "sha512-uAykFx9/KOzOrapJgjMqThBJNRb6dqbAchr3IDXtybm+eMcviP9F0tlXAKQJyInJk4yDsYC5S5qPAQXqZcZLsQ==",
+        "shasum": "0c0b55d32ac28a09294b46c429961222dcf66308",
+        "tarball": "https://registry.npmjs.org/00h-simple-calculator/-/00h-simple-calculator-1.0.3.tgz",
         "fileCount": 4,
-        "unpackedSize": 14785,
+        "unpackedSize": 14783,
         "signatures": [
             {
                 "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
-                "sig": "MEQCIEnI1DIxb+MLkVgfz9d+T/iv8XIPL7/MHgI4qSBn7mATAiA4vI4u6Mz/a9G4JAsIm5vyL0SRsOpL3Wz8u8p8eWOJbg=="
+                "sig": "MEYCIQDPjpGiU+vjc/K5KHWAWTcNCYMHUW1JL/qTg19+4BbFggIhAOR3xpL1TnDF7l9TG56SDwTSm9iWK5Yb3DnYBw/zlxg0"
             }
         ]
     },
@@ -49,7 +49,7 @@
     ],
     "_npmOperationalInternal": {
         "host": "s3://npm-registry-packages",
-        "tmp": "tmp/00h-simple-calculator_1.0.1_1713617592201_0.9434387656189074"
+        "tmp": "tmp/00h-simple-calculator_1.0.3_1713637960854_0.043478292437462596"
     },
     "_hasShrinkwrap": false
 }
